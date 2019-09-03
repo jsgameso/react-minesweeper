@@ -997,10 +997,10 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^12.0.9"
 
-"@jsgames/minesweeper@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@jsgames/minesweeper/-/minesweeper-0.1.0.tgz#4ecb58237d11cc961a75d55b804f79c3736fcfd8"
-  integrity sha512-j8sSeLqBGci3e7KV/oe09rn3J50bqGCvBiIaL2njSDJITUdKaUTVpvlZrVYyhmXxBXO78B3yMylYXwDslUKLJw==
+"@jsgames/minesweeper@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@jsgames/minesweeper/-/minesweeper-0.3.0.tgz#a9dedf2c7dfd16fd30aa71ab1c4bc1d992998483"
+  integrity sha512-262imbIpP7BW4nM8FwY1J6lCCfX2NJeU7ftmzYnp8b6UKJ8C+x1GVz05emYlMwtDIgFOzg+X8YcjP1h+1EHa9Q==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
