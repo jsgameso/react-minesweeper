@@ -1,3 +1,7 @@
+# React Minesweeper
+
+React implementation of the [@jsgames/minesweeper](https://www.npmjs.com/package/@jsgames/minesweeper) engine.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
