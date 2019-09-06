@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.6fa40bfe.chunk.js",
-    "main.js.map": "/static/js/main.6fa40bfe.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.c0d74dce.js",
-    "runtime~main.js.map": "/static/js/runtime~main.c0d74dce.js.map",
-    "static/js/2.22a811f3.chunk.js": "/static/js/2.22a811f3.chunk.js",
-    "static/js/2.22a811f3.chunk.js.map": "/static/js/2.22a811f3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8f2111a8d21b13839976b009397891b5.js": "/precache-manifest.8f2111a8d21b13839976b009397891b5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/bomb.svg": "/static/media/bomb.6e1de49f.svg"
+    "main.js": "/react-minesweeper/static/js/main.63b32026.chunk.js",
+    "main.js.map": "/react-minesweeper/static/js/main.63b32026.chunk.js.map",
+    "runtime~main.js": "/react-minesweeper/static/js/runtime~main.7ad09fa7.js",
+    "runtime~main.js.map": "/react-minesweeper/static/js/runtime~main.7ad09fa7.js.map",
+    "static/js/2.d931c64b.chunk.js": "/react-minesweeper/static/js/2.d931c64b.chunk.js",
+    "static/js/2.d931c64b.chunk.js.map": "/react-minesweeper/static/js/2.d931c64b.chunk.js.map",
+    "index.html": "/react-minesweeper/index.html",
+    "precache-manifest.0586839e2e387320a29a3243b58e6b89.js": "/react-minesweeper/precache-manifest.0586839e2e387320a29a3243b58e6b89.js",
+    "service-worker.js": "/react-minesweeper/service-worker.js",
+    "static/media/bomb.svg": "/react-minesweeper/static/media/bomb.8264bc95.svg"
   }
 }
