@@ -2,6 +2,7 @@
   "name": "react-minesweeper",
   "version": "0.1.0",
   "private": false,
+  "homepage": "https://jsgameso.github.io/react-minesweeper/",
   "dependencies": {
     "@jsgames/minesweeper": "^0.4.4",
     "react": "^16.9.0",
